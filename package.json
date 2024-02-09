@@ -1,0 +1,16 @@
+{
+  "name": "curso_edutin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hola.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prettier/plugin-php": "^0.22.2",
+    "prettier": "^3.2.5"
+  }
+}
